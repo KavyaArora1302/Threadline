@@ -1,0 +1,40 @@
+{
+  "channel": "engineering",
+  "messages": [
+    {
+      "user": "Kavya Arora",
+      "timestamp": "2026-08-10T02:46:11.392729+00:00",
+      "text": "Let's reuse Resend to keep things simple",
+      "replies": []
+    },
+    {
+      "user": "Kavya Arora",
+      "timestamp": "2026-08-10T02:46:06.089029+00:00",
+      "text": "Should we use Resend for the password reset emails too, or keep it separate?",
+      "replies": []
+    },
+    {
+      "user": "Kavya Arora",
+      "timestamp": "2026-08-10T02:46:01.017309+00:00",
+      "text": "Turns out it was a race condition on concurrent webhook events, fix incoming",
+      "replies": []
+    },
+    {
+      "user": "Kavya Arora",
+      "timestamp": "2026-08-10T02:45:55.104869+00:00",
+      "text": "Heads up \u2014 the payment webhook has been failing intermittently under load, investigating now",
+      "replies": [
+        {
+          "user": "Kavya Arora",
+          "timestamp": "2026-08-11T18:54:48.451509+00:00",
+          "text": "Any idea if this correlates with the traffic spike from the marketing email?"
+        },
+        {
+          "user": "Kavya Arora",
+          "timestamp": "2026-08-11T18:54:54.555309+00:00",
+          "text": "Good call \u2014 checking the timing now"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+/* Threadline theme — locked in from the reference palette. Every screen
+   should pull colors from these tokens (bg-primary, text-ink, etc.)
+   instead of Tailwind's default gray/indigo palette, so the whole app
+   stays visually consistent as it grows. */
+@theme {
+  --color-primary: #2e7d5b;
+  --color-primary-light: #e7f3ec;
+  --color-beige: #f5f2ea;
+  --color-beige-soft: #fff9f1;
+  --color-ink: #1f2937;
+  --color-muted: #6b7280;
+  --color-line: #e5e7eb;
+  --color-success: #22c55e;
+  --color-canvas: #fafaf9;
+}
+
+/* Every clickable control in the app is a native <button> — this one rule
+   gives all of them a pointer cursor on hover instead of patching it onto
+   each component individually. Disabled buttons opt out, and any button
+   that wants a different disabled cursor (e.g. cursor-not-allowed) can
+   still override this via Tailwind's disabled: variant. */
+@layer base {
+  button:not(:disabled) {
+    cursor: pointer;
+  }
+}

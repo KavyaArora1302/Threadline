@@ -1,0 +1,3956 @@
+{
+  "owner": "KavyaArora1302",
+  "repo": "FlagHouse",
+  "edges": [
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/App.jsx",
+      "commit_sha": "ae0f0171453b2a61a86dc95cc932500eef7fd5da",
+      "date": "2026-07-02T09:07:39Z",
+      "status": "modified",
+      "additions": 10,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/Chatbot.jsx",
+      "commit_sha": "ae0f0171453b2a61a86dc95cc932500eef7fd5da",
+      "date": "2026-07-02T09:07:39Z",
+      "status": "modified",
+      "additions": 492,
+      "deletions": 430
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/Footer.jsx",
+      "commit_sha": "ae0f0171453b2a61a86dc95cc932500eef7fd5da",
+      "date": "2026-07-02T09:07:39Z",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 4
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/FooterTimeStrip.jsx",
+      "commit_sha": "ae0f0171453b2a61a86dc95cc932500eef7fd5da",
+      "date": "2026-07-02T09:07:39Z",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 2
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/index.css",
+      "commit_sha": "ae0f0171453b2a61a86dc95cc932500eef7fd5da",
+      "date": "2026-07-02T09:07:39Z",
+      "status": "modified",
+      "additions": 8,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/AboutPage.jsx",
+      "commit_sha": "ae0f0171453b2a61a86dc95cc932500eef7fd5da",
+      "date": "2026-07-02T09:07:39Z",
+      "status": "modified",
+      "additions": 45,
+      "deletions": 18
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/CartPage.jsx",
+      "commit_sha": "ae0f0171453b2a61a86dc95cc932500eef7fd5da",
+      "date": "2026-07-02T09:07:39Z",
+      "status": "modified",
+      "additions": 21,
+      "deletions": 19
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/CheckoutPage.jsx",
+      "commit_sha": "ae0f0171453b2a61a86dc95cc932500eef7fd5da",
+      "date": "2026-07-02T09:07:39Z",
+      "status": "modified",
+      "additions": 10,
+      "deletions": 10
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/ContactPage.jsx",
+      "commit_sha": "ae0f0171453b2a61a86dc95cc932500eef7fd5da",
+      "date": "2026-07-02T09:07:39Z",
+      "status": "modified",
+      "additions": 6,
+      "deletions": 6
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/HomePage.jsx",
+      "commit_sha": "ae0f0171453b2a61a86dc95cc932500eef7fd5da",
+      "date": "2026-07-02T09:07:39Z",
+      "status": "modified",
+      "additions": 15,
+      "deletions": 15
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/LoginPage.jsx",
+      "commit_sha": "ae0f0171453b2a61a86dc95cc932500eef7fd5da",
+      "date": "2026-07-02T09:07:39Z",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/OrdersPage.jsx",
+      "commit_sha": "ae0f0171453b2a61a86dc95cc932500eef7fd5da",
+      "date": "2026-07-02T09:07:39Z",
+      "status": "modified",
+      "additions": 5,
+      "deletions": 5
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/ProductDetailPage.jsx",
+      "commit_sha": "ae0f0171453b2a61a86dc95cc932500eef7fd5da",
+      "date": "2026-07-02T09:07:39Z",
+      "status": "modified",
+      "additions": 63,
+      "deletions": 45
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/ProfilePage.jsx",
+      "commit_sha": "ae0f0171453b2a61a86dc95cc932500eef7fd5da",
+      "date": "2026-07-02T09:07:39Z",
+      "status": "modified",
+      "additions": 7,
+      "deletions": 7
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/RegisterPage.jsx",
+      "commit_sha": "ae0f0171453b2a61a86dc95cc932500eef7fd5da",
+      "date": "2026-07-02T09:07:39Z",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/ShopPage.jsx",
+      "commit_sha": "ae0f0171453b2a61a86dc95cc932500eef7fd5da",
+      "date": "2026-07-02T09:07:39Z",
+      "status": "modified",
+      "additions": 27,
+      "deletions": 15
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/.env.example",
+      "commit_sha": "a8b00cb9a4641de00e2fa49e0b52a1eeecb26a19",
+      "date": "2026-06-25T07:03:56Z",
+      "status": "modified",
+      "additions": 7,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/controllers/chat.controller.js",
+      "commit_sha": "a8b00cb9a4641de00e2fa49e0b52a1eeecb26a19",
+      "date": "2026-06-25T07:03:56Z",
+      "status": "modified",
+      "additions": 220,
+      "deletions": 2
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/middleware/auth.js",
+      "commit_sha": "a8b00cb9a4641de00e2fa49e0b52a1eeecb26a19",
+      "date": "2026-06-25T07:03:56Z",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 130
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/middleware/auth.middleware.js",
+      "commit_sha": "a8b00cb9a4641de00e2fa49e0b52a1eeecb26a19",
+      "date": "2026-06-25T07:03:56Z",
+      "status": "modified",
+      "additions": 35,
+      "deletions": 1
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/models/ChatConversation.js",
+      "commit_sha": "a8b00cb9a4641de00e2fa49e0b52a1eeecb26a19",
+      "date": "2026-06-25T07:03:56Z",
+      "status": "added",
+      "additions": 101,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/routes/chat.routes.js",
+      "commit_sha": "a8b00cb9a4641de00e2fa49e0b52a1eeecb26a19",
+      "date": "2026-06-25T07:03:56Z",
+      "status": "modified",
+      "additions": 17,
+      "deletions": 2
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/utils/formatUser.js",
+      "commit_sha": "a8b00cb9a4641de00e2fa49e0b52a1eeecb26a19",
+      "date": "2026-06-25T07:03:56Z",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/test-gemini.js",
+      "commit_sha": "a8b00cb9a4641de00e2fa49e0b52a1eeecb26a19",
+      "date": "2026-06-25T07:03:56Z",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 52
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/api/chat.api.js",
+      "commit_sha": "a8b00cb9a4641de00e2fa49e0b52a1eeecb26a19",
+      "date": "2026-06-25T07:03:56Z",
+      "status": "modified",
+      "additions": 107,
+      "deletions": 2
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/Chatbot.jsx",
+      "commit_sha": "a8b00cb9a4641de00e2fa49e0b52a1eeecb26a19",
+      "date": "2026-06-25T07:03:56Z",
+      "status": "modified",
+      "additions": 296,
+      "deletions": 24
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/package.json",
+      "commit_sha": "49661f46ebd5ffe851e5e646b1c5dd73519a5932",
+      "date": "2026-06-19T07:08:33Z",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/services/chatbot.service.js",
+      "commit_sha": "5c5c49576638652aa214f8532b1a509f99e83567",
+      "date": "2026-06-19T06:58:38Z",
+      "status": "modified",
+      "additions": 11,
+      "deletions": 1
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/services/chatbot.service.js",
+      "commit_sha": "20fb168110661c52ba0c6442a731d9da499bc7b0",
+      "date": "2026-06-19T06:45:27Z",
+      "status": "modified",
+      "additions": 8,
+      "deletions": 3
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/services/chatbot.service.js",
+      "commit_sha": "78c9cc4d4fde52df3e06bd05db25f1fcf3a28094",
+      "date": "2026-06-19T05:15:22Z",
+      "status": "modified",
+      "additions": 49,
+      "deletions": 2
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "package-lock.json",
+      "commit_sha": "78c9cc4d4fde52df3e06bd05db25f1fcf3a28094",
+      "date": "2026-06-19T05:15:22Z",
+      "status": "modified",
+      "additions": 886,
+      "deletions": 1
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "package.json",
+      "commit_sha": "78c9cc4d4fde52df3e06bd05db25f1fcf3a28094",
+      "date": "2026-06-19T05:15:22Z",
+      "status": "added",
+      "additions": 5,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/.env.example",
+      "commit_sha": "9aa89b84b5d28e5a03f5f1c3b771d1319ea7ecbc",
+      "date": "2026-06-12T04:12:39Z",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/package-lock.json",
+      "commit_sha": "9aa89b84b5d28e5a03f5f1c3b771d1319ea7ecbc",
+      "date": "2026-06-12T04:12:39Z",
+      "status": "modified",
+      "additions": 10,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/package.json",
+      "commit_sha": "9aa89b84b5d28e5a03f5f1c3b771d1319ea7ecbc",
+      "date": "2026-06-12T04:12:39Z",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/app.js",
+      "commit_sha": "9aa89b84b5d28e5a03f5f1c3b771d1319ea7ecbc",
+      "date": "2026-06-12T04:12:39Z",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/controllers/chat.controller.js",
+      "commit_sha": "9aa89b84b5d28e5a03f5f1c3b771d1319ea7ecbc",
+      "date": "2026-06-12T04:12:39Z",
+      "status": "added",
+      "additions": 98,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/middleware/auth.js",
+      "commit_sha": "9aa89b84b5d28e5a03f5f1c3b771d1319ea7ecbc",
+      "date": "2026-06-12T04:12:39Z",
+      "status": "added",
+      "additions": 130,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/routes/chat.routes.js",
+      "commit_sha": "9aa89b84b5d28e5a03f5f1c3b771d1319ea7ecbc",
+      "date": "2026-06-12T04:12:39Z",
+      "status": "added",
+      "additions": 19,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/services/chatbot.service.js",
+      "commit_sha": "9aa89b84b5d28e5a03f5f1c3b771d1319ea7ecbc",
+      "date": "2026-06-12T04:12:39Z",
+      "status": "added",
+      "additions": 145,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/utils/chatbotContext.js",
+      "commit_sha": "9aa89b84b5d28e5a03f5f1c3b771d1319ea7ecbc",
+      "date": "2026-06-12T04:12:39Z",
+      "status": "added",
+      "additions": 116,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/test-gemini.js",
+      "commit_sha": "9aa89b84b5d28e5a03f5f1c3b771d1319ea7ecbc",
+      "date": "2026-06-12T04:12:39Z",
+      "status": "added",
+      "additions": 52,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/api/chat.api.js",
+      "commit_sha": "9aa89b84b5d28e5a03f5f1c3b771d1319ea7ecbc",
+      "date": "2026-06-12T04:12:39Z",
+      "status": "added",
+      "additions": 66,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/Chatbot.jsx",
+      "commit_sha": "9aa89b84b5d28e5a03f5f1c3b771d1319ea7ecbc",
+      "date": "2026-06-12T04:12:39Z",
+      "status": "added",
+      "additions": 298,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/Layout.jsx",
+      "commit_sha": "9aa89b84b5d28e5a03f5f1c3b771d1319ea7ecbc",
+      "date": "2026-06-12T04:12:39Z",
+      "status": "modified",
+      "additions": 4,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/index.css",
+      "commit_sha": "9aa89b84b5d28e5a03f5f1c3b771d1319ea7ecbc",
+      "date": "2026-06-12T04:12:39Z",
+      "status": "modified",
+      "additions": 15,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/1.jpg",
+      "commit_sha": "a1e02eafd2853e096d8ceb14d0290452f45b9cf8",
+      "date": "2026-06-04T05:42:25Z",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/10.jpg",
+      "commit_sha": "a1e02eafd2853e096d8ceb14d0290452f45b9cf8",
+      "date": "2026-06-04T05:42:25Z",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/11.jpg",
+      "commit_sha": "a1e02eafd2853e096d8ceb14d0290452f45b9cf8",
+      "date": "2026-06-04T05:42:25Z",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/12.jpg",
+      "commit_sha": "a1e02eafd2853e096d8ceb14d0290452f45b9cf8",
+      "date": "2026-06-04T05:42:25Z",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/13.jpg",
+      "commit_sha": "a1e02eafd2853e096d8ceb14d0290452f45b9cf8",
+      "date": "2026-06-04T05:42:25Z",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/14.jpg",
+      "commit_sha": "a1e02eafd2853e096d8ceb14d0290452f45b9cf8",
+      "date": "2026-06-04T05:42:25Z",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/15.jpg",
+      "commit_sha": "a1e02eafd2853e096d8ceb14d0290452f45b9cf8",
+      "date": "2026-06-04T05:42:25Z",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/16.jpg",
+      "commit_sha": "a1e02eafd2853e096d8ceb14d0290452f45b9cf8",
+      "date": "2026-06-04T05:42:25Z",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/2.jpg",
+      "commit_sha": "a1e02eafd2853e096d8ceb14d0290452f45b9cf8",
+      "date": "2026-06-04T05:42:25Z",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/3.jpg",
+      "commit_sha": "a1e02eafd2853e096d8ceb14d0290452f45b9cf8",
+      "date": "2026-06-04T05:42:25Z",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/4.jpg",
+      "commit_sha": "a1e02eafd2853e096d8ceb14d0290452f45b9cf8",
+      "date": "2026-06-04T05:42:25Z",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/5.jpg",
+      "commit_sha": "a1e02eafd2853e096d8ceb14d0290452f45b9cf8",
+      "date": "2026-06-04T05:42:25Z",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/6.jpg",
+      "commit_sha": "a1e02eafd2853e096d8ceb14d0290452f45b9cf8",
+      "date": "2026-06-04T05:42:25Z",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/7.jpg",
+      "commit_sha": "a1e02eafd2853e096d8ceb14d0290452f45b9cf8",
+      "date": "2026-06-04T05:42:25Z",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/8.jpg",
+      "commit_sha": "a1e02eafd2853e096d8ceb14d0290452f45b9cf8",
+      "date": "2026-06-04T05:42:25Z",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/9.jpg",
+      "commit_sha": "a1e02eafd2853e096d8ceb14d0290452f45b9cf8",
+      "date": "2026-06-04T05:42:25Z",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "README.md",
+      "commit_sha": "387b4be1d64e431cf02ae2e6767fa60f711dce6a",
+      "date": "2026-06-04T05:39:40Z",
+      "status": "modified",
+      "additions": 8,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/README.md",
+      "commit_sha": "387b4be1d64e431cf02ae2e6767fa60f711dce6a",
+      "date": "2026-06-04T05:39:40Z",
+      "status": "modified",
+      "additions": 7,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/controllers/admin.stats.controller.js",
+      "commit_sha": "387b4be1d64e431cf02ae2e6767fa60f711dce6a",
+      "date": "2026-06-04T05:39:40Z",
+      "status": "added",
+      "additions": 86,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/controllers/profile.controller.js",
+      "commit_sha": "387b4be1d64e431cf02ae2e6767fa60f711dce6a",
+      "date": "2026-06-04T05:39:40Z",
+      "status": "added",
+      "additions": 210,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/models/User.js",
+      "commit_sha": "387b4be1d64e431cf02ae2e6767fa60f711dce6a",
+      "date": "2026-06-04T05:39:40Z",
+      "status": "modified",
+      "additions": 24,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/routes/admin.routes.js",
+      "commit_sha": "387b4be1d64e431cf02ae2e6767fa60f711dce6a",
+      "date": "2026-06-04T05:39:40Z",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/routes/auth.routes.js",
+      "commit_sha": "387b4be1d64e431cf02ae2e6767fa60f711dce6a",
+      "date": "2026-06-04T05:39:40Z",
+      "status": "modified",
+      "additions": 14,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/utils/formatUser.js",
+      "commit_sha": "387b4be1d64e431cf02ae2e6767fa60f711dce6a",
+      "date": "2026-06-04T05:39:40Z",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/utils/savedAddress.js",
+      "commit_sha": "387b4be1d64e431cf02ae2e6767fa60f711dce6a",
+      "date": "2026-06-04T05:39:40Z",
+      "status": "added",
+      "additions": 51,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/App.jsx",
+      "commit_sha": "387b4be1d64e431cf02ae2e6767fa60f711dce6a",
+      "date": "2026-06-04T05:39:40Z",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/api/admin.js",
+      "commit_sha": "387b4be1d64e431cf02ae2e6767fa60f711dce6a",
+      "date": "2026-06-04T05:39:40Z",
+      "status": "modified",
+      "additions": 9,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/api/profile.js",
+      "commit_sha": "387b4be1d64e431cf02ae2e6767fa60f711dce6a",
+      "date": "2026-06-04T05:39:40Z",
+      "status": "added",
+      "additions": 66,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/Navbar.jsx",
+      "commit_sha": "387b4be1d64e431cf02ae2e6767fa60f711dce6a",
+      "date": "2026-06-04T05:39:40Z",
+      "status": "modified",
+      "additions": 14,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/context/AuthContext.jsx",
+      "commit_sha": "387b4be1d64e431cf02ae2e6767fa60f711dce6a",
+      "date": "2026-06-04T05:39:40Z",
+      "status": "modified",
+      "additions": 9,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/CheckoutPage.jsx",
+      "commit_sha": "387b4be1d64e431cf02ae2e6767fa60f711dce6a",
+      "date": "2026-06-04T05:39:40Z",
+      "status": "modified",
+      "additions": 98,
+      "deletions": 9
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/ProfilePage.jsx",
+      "commit_sha": "387b4be1d64e431cf02ae2e6767fa60f711dce6a",
+      "date": "2026-06-04T05:39:40Z",
+      "status": "added",
+      "additions": 362,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/admin/AdminDashboardPage.jsx",
+      "commit_sha": "387b4be1d64e431cf02ae2e6767fa60f711dce6a",
+      "date": "2026-06-04T05:39:40Z",
+      "status": "modified",
+      "additions": 124,
+      "deletions": 29
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/.env.example",
+      "commit_sha": "3507c8e5dc55e16dbe8d7f2f8941931d6856807c",
+      "date": "2026-06-03T10:33:47Z",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/README.md",
+      "commit_sha": "3507c8e5dc55e16dbe8d7f2f8941931d6856807c",
+      "date": "2026-06-03T10:33:47Z",
+      "status": "modified",
+      "additions": 14,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/app.js",
+      "commit_sha": "3507c8e5dc55e16dbe8d7f2f8941931d6856807c",
+      "date": "2026-06-03T10:33:47Z",
+      "status": "modified",
+      "additions": 9,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/controllers/payment.controller.js",
+      "commit_sha": "3507c8e5dc55e16dbe8d7f2f8941931d6856807c",
+      "date": "2026-06-03T10:33:47Z",
+      "status": "modified",
+      "additions": 99,
+      "deletions": 28
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/utils/razorpayOrder.js",
+      "commit_sha": "3507c8e5dc55e16dbe8d7f2f8941931d6856807c",
+      "date": "2026-06-03T10:33:47Z",
+      "status": "added",
+      "additions": 40,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/utils/razorpayWebhook.js",
+      "commit_sha": "3507c8e5dc55e16dbe8d7f2f8941931d6856807c",
+      "date": "2026-06-03T10:33:47Z",
+      "status": "added",
+      "additions": 27,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "README.md",
+      "commit_sha": "2b0ad2bbb81429ffd09695ebf70332ba3934756e",
+      "date": "2026-06-03T10:23:20Z",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/.env.example",
+      "commit_sha": "2b0ad2bbb81429ffd09695ebf70332ba3934756e",
+      "date": "2026-06-03T10:23:20Z",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/README.md",
+      "commit_sha": "2b0ad2bbb81429ffd09695ebf70332ba3934756e",
+      "date": "2026-06-03T10:23:20Z",
+      "status": "modified",
+      "additions": 6,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/app.js",
+      "commit_sha": "2b0ad2bbb81429ffd09695ebf70332ba3934756e",
+      "date": "2026-06-03T10:23:20Z",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/controllers/contact.controller.js",
+      "commit_sha": "2b0ad2bbb81429ffd09695ebf70332ba3934756e",
+      "date": "2026-06-03T10:23:20Z",
+      "status": "added",
+      "additions": 57,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/routes/contact.routes.js",
+      "commit_sha": "2b0ad2bbb81429ffd09695ebf70332ba3934756e",
+      "date": "2026-06-03T10:23:20Z",
+      "status": "added",
+      "additions": 8,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/services/email.js",
+      "commit_sha": "2b0ad2bbb81429ffd09695ebf70332ba3934756e",
+      "date": "2026-06-03T10:23:20Z",
+      "status": "modified",
+      "additions": 62,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/utils/contactEmail.js",
+      "commit_sha": "2b0ad2bbb81429ffd09695ebf70332ba3934756e",
+      "date": "2026-06-03T10:23:20Z",
+      "status": "added",
+      "additions": 10,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/api/contact.js",
+      "commit_sha": "2b0ad2bbb81429ffd09695ebf70332ba3934756e",
+      "date": "2026-06-03T10:23:20Z",
+      "status": "added",
+      "additions": 20,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/ContactPage.jsx",
+      "commit_sha": "2b0ad2bbb81429ffd09695ebf70332ba3934756e",
+      "date": "2026-06-03T10:23:20Z",
+      "status": "modified",
+      "additions": 38,
+      "deletions": 5
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "README.md",
+      "commit_sha": "1efc50cf4c5119f3a7bddcf78e8e48ea0e496d64",
+      "date": "2026-06-03T09:51:17Z",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/README.md",
+      "commit_sha": "1efc50cf4c5119f3a7bddcf78e8e48ea0e496d64",
+      "date": "2026-06-03T09:51:17Z",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/controllers/order.controller.js",
+      "commit_sha": "1efc50cf4c5119f3a7bddcf78e8e48ea0e496d64",
+      "date": "2026-06-03T09:51:17Z",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/controllers/payment.controller.js",
+      "commit_sha": "1efc50cf4c5119f3a7bddcf78e8e48ea0e496d64",
+      "date": "2026-06-03T09:51:17Z",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/services/email.js",
+      "commit_sha": "1efc50cf4c5119f3a7bddcf78e8e48ea0e496d64",
+      "date": "2026-06-03T09:51:17Z",
+      "status": "modified",
+      "additions": 162,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/utils/clientUrl.js",
+      "commit_sha": "1efc50cf4c5119f3a7bddcf78e8e48ea0e496d64",
+      "date": "2026-06-03T09:51:17Z",
+      "status": "added",
+      "additions": 5,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/utils/orderEmail.js",
+      "commit_sha": "1efc50cf4c5119f3a7bddcf78e8e48ea0e496d64",
+      "date": "2026-06-03T09:51:17Z",
+      "status": "added",
+      "additions": 10,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/utils/resetPassword.js",
+      "commit_sha": "1efc50cf4c5119f3a7bddcf78e8e48ea0e496d64",
+      "date": "2026-06-03T09:51:17Z",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 6
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/CheckoutPage.jsx",
+      "commit_sha": "1efc50cf4c5119f3a7bddcf78e8e48ea0e496d64",
+      "date": "2026-06-03T09:51:17Z",
+      "status": "modified",
+      "additions": 9,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/vercel.json",
+      "commit_sha": "d9f71429fa171172645b1912455c21d1fbf28957",
+      "date": "2026-06-03T09:11:35Z",
+      "status": "added",
+      "additions": 3,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "README.md",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "modified",
+      "additions": 9,
+      "deletions": 5
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/.env.example",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "modified",
+      "additions": 6,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/README.md",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "modified",
+      "additions": 18,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/package-lock.json",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "modified",
+      "additions": 51,
+      "deletions": 1
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/package.json",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/controllers/auth.controller.js",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "modified",
+      "additions": 93,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/data/productImages.js",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 9,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/data/seedProducts.js",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "modified",
+      "additions": 5,
+      "deletions": 1
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/models/User.js",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "modified",
+      "additions": 10,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/routes/auth.routes.js",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "modified",
+      "additions": 9,
+      "deletions": 1
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/services/email.js",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 85,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/utils/resetPassword.js",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 19,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/1.jpg",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/10.jpg",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/11.jpg",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/12.jpg",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/13.jpg",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/14.jpg",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/15.jpg",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/16.jpg",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/2.jpg",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/3.jpg",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/4.jpg",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/5.jpg",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/6.jpg",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/7.jpg",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/8.jpg",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/products/9.jpg",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/App.jsx",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "modified",
+      "additions": 6,
+      "deletions": 2
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/api/auth.js",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "modified",
+      "additions": 18,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/AuthBrand.jsx",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 14,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/ProductImage.jsx",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 41,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/context/CartContext.jsx",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/CartPage.jsx",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "modified",
+      "additions": 7,
+      "deletions": 3
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/CheckoutPage.jsx",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "modified",
+      "additions": 8,
+      "deletions": 3
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/ForgotPasswordPage.jsx",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 135,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/HomePage.jsx",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "modified",
+      "additions": 17,
+      "deletions": 13
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/LoginPage.jsx",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/OrdersPage.jsx",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "modified",
+      "additions": 7,
+      "deletions": 3
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/ProductDetailPage.jsx",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "modified",
+      "additions": 15,
+      "deletions": 20
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/ResetPasswordPage.jsx",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 214,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/ShopPage.jsx",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "modified",
+      "additions": 17,
+      "deletions": 13
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/admin/AdminProductsPage.jsx",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "modified",
+      "additions": 19,
+      "deletions": 1
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/utils/productImage.js",
+      "commit_sha": "2e62cc6a9eb186c809c6fd7da069d9ce3a4c48a9",
+      "date": "2026-06-03T08:59:20Z",
+      "status": "added",
+      "additions": 17,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/.env.example",
+      "commit_sha": "79b9256753ee46acd491f5bbd7b1fe17abfd5df5",
+      "date": "2026-06-02T09:27:18Z",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/README.md",
+      "commit_sha": "79b9256753ee46acd491f5bbd7b1fe17abfd5df5",
+      "date": "2026-06-02T09:27:18Z",
+      "status": "modified",
+      "additions": 8,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/package-lock.json",
+      "commit_sha": "79b9256753ee46acd491f5bbd7b1fe17abfd5df5",
+      "date": "2026-06-02T09:27:18Z",
+      "status": "modified",
+      "additions": 171,
+      "deletions": 1
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/package.json",
+      "commit_sha": "79b9256753ee46acd491f5bbd7b1fe17abfd5df5",
+      "date": "2026-06-02T09:27:18Z",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/app.js",
+      "commit_sha": "79b9256753ee46acd491f5bbd7b1fe17abfd5df5",
+      "date": "2026-06-02T09:27:18Z",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/controllers/order.controller.js",
+      "commit_sha": "79b9256753ee46acd491f5bbd7b1fe17abfd5df5",
+      "date": "2026-06-02T09:27:18Z",
+      "status": "modified",
+      "additions": 16,
+      "deletions": 75
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/controllers/payment.controller.js",
+      "commit_sha": "79b9256753ee46acd491f5bbd7b1fe17abfd5df5",
+      "date": "2026-06-02T09:27:18Z",
+      "status": "added",
+      "additions": 125,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/models/Order.js",
+      "commit_sha": "79b9256753ee46acd491f5bbd7b1fe17abfd5df5",
+      "date": "2026-06-02T09:27:18Z",
+      "status": "modified",
+      "additions": 8,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/routes/payment.routes.js",
+      "commit_sha": "79b9256753ee46acd491f5bbd7b1fe17abfd5df5",
+      "date": "2026-06-02T09:27:18Z",
+      "status": "added",
+      "additions": 15,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/services/razorpay.js",
+      "commit_sha": "79b9256753ee46acd491f5bbd7b1fe17abfd5df5",
+      "date": "2026-06-02T09:27:18Z",
+      "status": "added",
+      "additions": 23,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/utils/orderValidation.js",
+      "commit_sha": "79b9256753ee46acd491f5bbd7b1fe17abfd5df5",
+      "date": "2026-06-02T09:27:18Z",
+      "status": "added",
+      "additions": 85,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/.env.example",
+      "commit_sha": "79b9256753ee46acd491f5bbd7b1fe17abfd5df5",
+      "date": "2026-06-02T09:27:18Z",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/api/payments.js",
+      "commit_sha": "79b9256753ee46acd491f5bbd7b1fe17abfd5df5",
+      "date": "2026-06-02T09:27:18Z",
+      "status": "added",
+      "additions": 35,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/CheckoutPage.jsx",
+      "commit_sha": "79b9256753ee46acd491f5bbd7b1fe17abfd5df5",
+      "date": "2026-06-02T09:27:18Z",
+      "status": "modified",
+      "additions": 67,
+      "deletions": 48
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/utils/razorpayCheckout.js",
+      "commit_sha": "79b9256753ee46acd491f5bbd7b1fe17abfd5df5",
+      "date": "2026-06-02T09:27:18Z",
+      "status": "added",
+      "additions": 75,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/README.md",
+      "commit_sha": "1a9c170a4480995652b9c491705e0351036d72a9",
+      "date": "2026-06-02T06:57:01Z",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/controllers/admin.order.controller.js",
+      "commit_sha": "1a9c170a4480995652b9c491705e0351036d72a9",
+      "date": "2026-06-02T06:57:01Z",
+      "status": "added",
+      "additions": 81,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/routes/admin.routes.js",
+      "commit_sha": "1a9c170a4480995652b9c491705e0351036d72a9",
+      "date": "2026-06-02T06:57:01Z",
+      "status": "modified",
+      "additions": 9,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/api/adminOrders.js",
+      "commit_sha": "1a9c170a4480995652b9c491705e0351036d72a9",
+      "date": "2026-06-02T06:57:01Z",
+      "status": "added",
+      "additions": 41,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/admin/AdminDashboardPage.jsx",
+      "commit_sha": "1a9c170a4480995652b9c491705e0351036d72a9",
+      "date": "2026-06-02T06:57:01Z",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/admin/AdminOrdersPage.jsx",
+      "commit_sha": "1a9c170a4480995652b9c491705e0351036d72a9",
+      "date": "2026-06-02T06:57:01Z",
+      "status": "modified",
+      "additions": 294,
+      "deletions": 7
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/README.md",
+      "commit_sha": "f19b44956de17268a15a5de31de7bd9b6ce6fc3c",
+      "date": "2026-06-02T06:07:37Z",
+      "status": "modified",
+      "additions": 4,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/controllers/admin.product.controller.js",
+      "commit_sha": "f19b44956de17268a15a5de31de7bd9b6ce6fc3c",
+      "date": "2026-06-02T06:07:37Z",
+      "status": "added",
+      "additions": 155,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/routes/admin.routes.js",
+      "commit_sha": "f19b44956de17268a15a5de31de7bd9b6ce6fc3c",
+      "date": "2026-06-02T06:07:37Z",
+      "status": "modified",
+      "additions": 11,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/api/adminProducts.js",
+      "commit_sha": "f19b44956de17268a15a5de31de7bd9b6ce6fc3c",
+      "date": "2026-06-02T06:07:37Z",
+      "status": "added",
+      "additions": 54,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/admin/AdminDashboardPage.jsx",
+      "commit_sha": "f19b44956de17268a15a5de31de7bd9b6ce6fc3c",
+      "date": "2026-06-02T06:07:37Z",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/admin/AdminProductsPage.jsx",
+      "commit_sha": "f19b44956de17268a15a5de31de7bd9b6ce6fc3c",
+      "date": "2026-06-02T06:07:37Z",
+      "status": "modified",
+      "additions": 381,
+      "deletions": 7
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/.env.example",
+      "commit_sha": "4bcd4c1bc6e9ac8d9e4c42d38ffbd24fae46b90f",
+      "date": "2026-06-02T05:35:37Z",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/README.md",
+      "commit_sha": "4bcd4c1bc6e9ac8d9e4c42d38ffbd24fae46b90f",
+      "date": "2026-06-02T05:35:37Z",
+      "status": "modified",
+      "additions": 14,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/package.json",
+      "commit_sha": "4bcd4c1bc6e9ac8d9e4c42d38ffbd24fae46b90f",
+      "date": "2026-06-02T05:35:37Z",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/app.js",
+      "commit_sha": "4bcd4c1bc6e9ac8d9e4c42d38ffbd24fae46b90f",
+      "date": "2026-06-02T05:35:37Z",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/controllers/admin.controller.js",
+      "commit_sha": "4bcd4c1bc6e9ac8d9e4c42d38ffbd24fae46b90f",
+      "date": "2026-06-02T05:35:37Z",
+      "status": "added",
+      "additions": 12,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/controllers/auth.controller.js",
+      "commit_sha": "4bcd4c1bc6e9ac8d9e4c42d38ffbd24fae46b90f",
+      "date": "2026-06-02T05:35:37Z",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/middleware/requireAdmin.middleware.js",
+      "commit_sha": "4bcd4c1bc6e9ac8d9e4c42d38ffbd24fae46b90f",
+      "date": "2026-06-02T05:35:37Z",
+      "status": "added",
+      "additions": 6,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/models/User.js",
+      "commit_sha": "4bcd4c1bc6e9ac8d9e4c42d38ffbd24fae46b90f",
+      "date": "2026-06-02T05:35:37Z",
+      "status": "modified",
+      "additions": 5,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/routes/admin.routes.js",
+      "commit_sha": "4bcd4c1bc6e9ac8d9e4c42d38ffbd24fae46b90f",
+      "date": "2026-06-02T05:35:37Z",
+      "status": "added",
+      "additions": 12,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/scripts/promoteAdmin.js",
+      "commit_sha": "4bcd4c1bc6e9ac8d9e4c42d38ffbd24fae46b90f",
+      "date": "2026-06-02T05:35:37Z",
+      "status": "added",
+      "additions": 44,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/utils/adminEmail.js",
+      "commit_sha": "4bcd4c1bc6e9ac8d9e4c42d38ffbd24fae46b90f",
+      "date": "2026-06-02T05:35:37Z",
+      "status": "added",
+      "additions": 14,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/utils/formatUser.js",
+      "commit_sha": "4bcd4c1bc6e9ac8d9e4c42d38ffbd24fae46b90f",
+      "date": "2026-06-02T05:35:37Z",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/App.jsx",
+      "commit_sha": "4bcd4c1bc6e9ac8d9e4c42d38ffbd24fae46b90f",
+      "date": "2026-06-02T05:35:37Z",
+      "status": "modified",
+      "additions": 29,
+      "deletions": 4
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/api/admin.js",
+      "commit_sha": "4bcd4c1bc6e9ac8d9e4c42d38ffbd24fae46b90f",
+      "date": "2026-06-02T05:35:37Z",
+      "status": "added",
+      "additions": 20,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/AdminLayout.jsx",
+      "commit_sha": "4bcd4c1bc6e9ac8d9e4c42d38ffbd24fae46b90f",
+      "date": "2026-06-02T05:35:37Z",
+      "status": "added",
+      "additions": 77,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/AdminRoute.jsx",
+      "commit_sha": "4bcd4c1bc6e9ac8d9e4c42d38ffbd24fae46b90f",
+      "date": "2026-06-02T05:35:37Z",
+      "status": "added",
+      "additions": 27,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/Navbar.jsx",
+      "commit_sha": "4bcd4c1bc6e9ac8d9e4c42d38ffbd24fae46b90f",
+      "date": "2026-06-02T05:35:37Z",
+      "status": "modified",
+      "additions": 19,
+      "deletions": 1
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/context/AuthContext.jsx",
+      "commit_sha": "4bcd4c1bc6e9ac8d9e4c42d38ffbd24fae46b90f",
+      "date": "2026-06-02T05:35:37Z",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/admin/AdminDashboardPage.jsx",
+      "commit_sha": "4bcd4c1bc6e9ac8d9e4c42d38ffbd24fae46b90f",
+      "date": "2026-06-02T05:35:37Z",
+      "status": "added",
+      "additions": 68,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/admin/AdminOrdersPage.jsx",
+      "commit_sha": "4bcd4c1bc6e9ac8d9e4c42d38ffbd24fae46b90f",
+      "date": "2026-06-02T05:35:37Z",
+      "status": "added",
+      "additions": 15,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/admin/AdminProductsPage.jsx",
+      "commit_sha": "4bcd4c1bc6e9ac8d9e4c42d38ffbd24fae46b90f",
+      "date": "2026-06-02T05:35:37Z",
+      "status": "added",
+      "additions": 15,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "README.md",
+      "commit_sha": "461b0955283777792e78f934deb14ce31596716c",
+      "date": "2026-06-02T03:49:11Z",
+      "status": "added",
+      "additions": 117,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/app.js",
+      "commit_sha": "98a9bcc12675131b72d52e506b01349c4b88a4c0",
+      "date": "2026-06-01T19:14:02Z",
+      "status": "modified",
+      "additions": 12,
+      "deletions": 2
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": ".gitignore",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 4,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/.env.example",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 14,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/.gitignore",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 3,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/ATLAS_SETUP.md",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 183,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/README.md",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 82,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/package-lock.json",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 1231,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/package.json",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 21,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/app.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 60,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/config/db.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 23,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/controllers/auth.controller.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 77,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/controllers/order.controller.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 113,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/controllers/product.controller.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 54,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/data/seedProducts.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 199,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/index.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 23,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/middleware/auth.middleware.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 26,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/models/Order.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 74,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/models/Product.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 62,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/models/User.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 30,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/routes/auth.routes.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 11,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/routes/health.routes.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 15,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/routes/order.routes.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 12,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/routes/product.routes.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 9,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/scripts/seed.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 25,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/utils/formatOrder.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 21,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/utils/formatProduct.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 18,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/utils/formatUser.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 5,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "backend/src/utils/token.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 19,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/.env.example",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 1,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/.gitignore",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 27,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/README.md",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 16,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/eslint.config.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 21,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/index.html",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 13,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/package-lock.json",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 2818,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/package.json",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 30,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/favicon.svg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 1,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame001.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame002.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame003.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame004.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame005.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame006.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame007.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame008.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame009.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame010.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame011.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame012.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame013.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame014.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame015.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame016.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame017.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame018.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame019.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame020.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame021.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame022.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame023.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame024.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame025.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame026.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame027.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame028.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame029.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame030.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame031.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame032.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame033.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame034.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame035.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame036.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame037.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame038.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame039.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame040.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame041.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame042.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame043.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame044.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame045.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame046.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame047.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame048.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame049.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame050.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame051.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame052.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame053.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame054.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame055.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame056.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame057.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame058.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame059.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame060.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame061.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame062.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame063.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame064.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame065.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame066.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame067.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame068.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame069.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame070.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame071.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame072.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame073.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame074.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame075.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame076.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame077.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame078.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame079.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame080.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame081.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame082.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame083.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame084.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame085.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame086.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame087.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame088.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame089.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame090.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame091.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame092.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame093.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame094.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame095.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame096.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame097.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame098.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame099.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame100.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame101.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame102.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame103.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame104.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame105.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame106.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame107.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame108.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame109.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame110.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame111.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame112.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame113.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame114.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame115.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame116.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame117.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame118.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/frames/frame119.jpg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/gifs/gaming.gif",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/gifs/music.gif",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/gifs/sports.gif",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/gifs/travel.gif",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/public/icons.svg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 24,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/App.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 63,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/api/auth.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 38,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/api/config.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 1,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/api/orders.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 34,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/api/products.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 29,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/assets/fonts/FiraSans-Regular.ttf",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/assets/hero.png",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/assets/videos/HeroSection.mp4",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/assets/vite.svg",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 1,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/AboutFeatureBanner.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 47,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/AboutPillStripes.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 106,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/AboutStoryGrid.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 149,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/ContactHero.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 263,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/Footer.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 119,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/FooterTimeStrip.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 55,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/Layout.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 50,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/Navbar.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 266,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/ProductLoadState.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 28,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/components/ScrollVideoSection.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 174,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/context/AuthContext.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 75,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/context/CartContext.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 98,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/data/products.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 43,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/index.css",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 53,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/main.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 10,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/AboutPage.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 76,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/CartPage.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 204,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/CheckoutPage.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 459,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/ContactPage.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 220,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/HomePage.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 272,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/LoginPage.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 156,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/NotFoundPage.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 13,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/OrdersPage.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 224,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/ProductDetailPage.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 328,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/RegisterPage.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 230,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/src/pages/ShopPage.jsx",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 314,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "frontend/vite.config.js",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 13,
+      "deletions": 0
+    },
+    {
+      "person_name": "Kavya Arora",
+      "person_username": "KavyaArora1302",
+      "file": "package-lock.json",
+      "commit_sha": "d579c4b35ccf8ba44b82bcb45aab2dd395078de4",
+      "date": "2026-06-01T12:57:13Z",
+      "status": "added",
+      "additions": 6,
+      "deletions": 0
+    }
+  ]
+}

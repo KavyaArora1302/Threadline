@@ -2,4 +2,11 @@
 __pycache__/
 *.pyc
 .env
-data/raw/
+
+# The chat/user database. Never committed: it holds real password hashes,
+# and on the server the data lives in Postgres anyway (see app/db.py).
+data/threadline.db
+
+# data/raw/ and data/graph/ ARE committed — they are the demo GitHub, Jira and
+# Slack content Threadline answers from, and the deployed app reads them at
+# query time, so it needs them present.

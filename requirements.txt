@@ -1,4 +1,19 @@
-fastapi
-uvicorn
-requests
-python-dotenv
+# Pinned so a rebuild installs what was tested, not whatever is newest.
+# Versions below are what Threadline was verified against on 2026-09-11.
+
+# Web layer
+fastapi==0.141.1
+uvicorn==0.52.4
+itsdangerous==2.2.0        # signs the session cookie (used via SessionMiddleware)
+
+# Database
+sqlmodel==0.0.42
+psycopg[binary]==3.3.5     # Postgres driver; SQLite needs nothing extra
+
+# Auth
+bcrypt==5.0.0
+
+# Everything else
+requests==2.34.2           # GitHub/Jira/Slack ingestion + the AI provider calls
+networkx==3.6.1            # the code-authorship graph in app/graph/
+python-dotenv==1.2.3

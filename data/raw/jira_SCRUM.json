@@ -1,0 +1,95 @@
+{
+  "site": "kavyaarora1302.atlassian.net",
+  "project_key": "SCRUM",
+  "issues": [
+    {
+      "key": "SCRUM-5",
+      "summary": "Add admin dashboard stats",
+      "status": "To Do",
+      "issue_type": "Task",
+      "priority": "Medium",
+      "assignee": null,
+      "reporter": "Kavya Arora",
+      "created": "2026-08-08T00:33:39.137+0530",
+      "updated": "2026-08-08T00:33:39.189+0530",
+      "description": "",
+      "comments": []
+    },
+    {
+      "key": "SCRUM-4",
+      "summary": "Improve mobile responsiveness on checkout page",
+      "status": "To Do",
+      "issue_type": "Task",
+      "priority": "Medium",
+      "assignee": null,
+      "reporter": "Kavya Arora",
+      "created": "2026-08-08T00:33:33.534+0530",
+      "updated": "2026-08-08T01:15:21.770+0530",
+      "description": "",
+      "comments": [
+        {
+          "author": "Kavya Arora",
+          "created": "2026-08-08T01:15:21.770+0530",
+          "text": "\"The saved address dropdown overflows on small screens. Switching to a full-width select on mobile should fix it.\""
+        }
+      ]
+    },
+    {
+      "key": "SCRUM-3",
+      "summary": "Investigate slow checkout page load",
+      "status": "To Do",
+      "issue_type": "Task",
+      "priority": "Medium",
+      "assignee": null,
+      "reporter": "Kavya Arora",
+      "created": "2026-08-08T00:33:26.149+0530",
+      "updated": "2026-08-08T01:15:11.692+0530",
+      "description": "",
+      "comments": [
+        {
+          "author": "Kavya Arora",
+          "created": "2026-08-08T01:15:11.692+0530",
+          "text": "\"Profiled it \u2014 most of the delay is from fetching saved addresses on every render, even for guests. Should skip that call for guest checkout.\""
+        }
+      ]
+    },
+    {
+      "key": "SCRUM-2",
+      "summary": "Add password reset flow",
+      "status": "To Do",
+      "issue_type": "Task",
+      "priority": "Medium",
+      "assignee": null,
+      "reporter": "Kavya Arora",
+      "created": "2026-08-08T00:33:21.110+0530",
+      "updated": "2026-08-08T01:14:59.706+0530",
+      "description": "",
+      "comments": [
+        {
+          "author": "Kavya Arora",
+          "created": "2026-08-08T01:14:59.706+0530",
+          "text": "\"Should this use Resend like the order confirmation emails already do, or do we want a separate email service for security-sensitive emails?\" \"Let's reuse Resend to keep things simple \u2014 we can revisit if we ever need stricter deliverability guarantees.\""
+        }
+      ]
+    },
+    {
+      "key": "SCRUM-1",
+      "summary": "Fix payment webhook race condition",
+      "status": "To Do",
+      "issue_type": "Task",
+      "priority": "Medium",
+      "assignee": null,
+      "reporter": "Kavya Arora",
+      "created": "2026-08-08T00:32:51.208+0530",
+      "updated": "2026-08-08T01:14:34.304+0530",
+      "description": "",
+      "comments": [
+        {
+          "author": "Kavya Arora",
+          "created": "2026-08-08T01:14:00.447+0530",
+          "text": "\"Turns out this only happens under high load \u2014 two webhook events for the same order arrive within milliseconds and both try to update the order status.\" \"Going with a database-level lock on the order ID instead of an in-memory flag, since the app can restart between events.\""
+        }
+      ]
+    }
+  ]
+}

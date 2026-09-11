@@ -1,0 +1,31 @@
+# Render deployment config. Secrets are NOT stored here — every key marked
+# `sync: false` has to be typed into the Render dashboard by hand, which keeps
+# them out of this public repo.
+services:
+  - type: web
+    name: threadline
+    runtime: python
+    region: singapore      # same region as the Neon database, to keep queries local
+    plan: free
+    healthCheckPath: /api/ping
+
+    # One service serves both halves: the frontend is built to static files and
+    # handed out by the same FastAPI process that answers /api. That shared
+    # origin is what makes the session cookie work (see app/main.py).
+    buildCommand: pip install -r requirements.txt && cd frontend && npm ci && npm run build
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12.13"
+      - key: ENVIRONMENT
+        value: production
+      # Set these in the Render dashboard, never in this file:
+      - key: DATABASE_URL
+        sync: false
+      - key: SESSION_SECRET_KEY
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: GROQ_API_KEY
+        sync: false

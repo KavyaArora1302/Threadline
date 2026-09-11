@@ -68,6 +68,71 @@ def _fetch_content(session: requests.Session, owner: str, repo: str, sha: str) -
     return base64.b64decode(blob["content"]).decode("utf-8", errors="replace")
 
 
+def _list_commits(session: requests.Session, owner: str, repo: str) -> list[dict]:
+    commits = []
+    page = 1
+    while True:
+        resp = session.get(
+            f"{GITHUB_API}/repos/{owner}/{repo}/commits",
+            params={"per_page": 100, "page": page},
+        )
+        resp.raise_for_status()
+        batch = resp.json()
+        if not batch:
+            break
+        commits.extend(batch)
+        page += 1
+    return commits
+
+
+def _fetch_commit_files(session: requests.Session, owner: str, repo: str, sha: str) -> list[dict]:
+    resp = session.get(f"{GITHUB_API}/repos/{owner}/{repo}/commits/{sha}")
+    resp.raise_for_status()
+    detail = resp.json()
+    return [
+        {
+            "filename": f.get("filename"),
+            "status": f.get("status"),
+            "additions": f.get("additions"),
+            "deletions": f.get("deletions"),
+            "patch": f.get("patch"),
+        }
+        for f in detail.get("files", [])
+    ]
+
+
+def ingest_commits(owner: str, repo: str) -> Path:
+    session = _session()
+    raw_commits = _list_commits(session, owner, repo)
+
+    commits = []
+    for entry in raw_commits:
+        commit = entry.get("commit", {})
+        author = commit.get("author") or {}
+        github_author = entry.get("author") or {}
+        sha = entry.get("sha")
+        files = _fetch_commit_files(session, owner, repo, sha)
+        commits.append({
+            "sha": sha,
+            "author_name": author.get("name"),
+            "author_email": author.get("email"),
+            "author_username": github_author.get("login"),
+            "date": author.get("date"),
+            "message": commit.get("message"),
+            "files": files,
+        })
+        print(f"  fetched commit {sha[:7]} by {author.get('name')} ({len(files)} file(s))")
+
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    out_path = DATA_DIR / f"{owner}_{repo}_commits.json"
+    out_path.write_text(json.dumps({
+        "owner": owner,
+        "repo": repo,
+        "commits": commits,
+    }, indent=2))
+    return out_path
+
+
 def ingest_repo(owner: str, repo: str) -> Path:
     session = _session()
     branch = _default_branch(session, owner, repo)
@@ -106,8 +171,12 @@ def main() -> None:
         sys.exit("repo must be in the form owner/repo")
 
     print(f"Ingesting {owner}/{repo} ...")
-    out_path = ingest_repo(owner, repo)
-    print(f"Done. Saved to {out_path}")
+    files_path = ingest_repo(owner, repo)
+    print(f"Done. Files saved to {files_path}")
+
+    print(f"Ingesting commit history for {owner}/{repo} ...")
+    commits_path = ingest_commits(owner, repo)
+    print(f"Done. Commits saved to {commits_path}")
 
 
 if __name__ == "__main__":
